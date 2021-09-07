@@ -1,5 +1,6 @@
 
-"An example from HW0 Task3"
+"An example from HW0 Task3, change local user name"
+
 
 import matplotlib.pyplot as plt
 
